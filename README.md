@@ -38,8 +38,4 @@ Puedes ver una demostración del proyecto en acción aquí: *[Enlace a video o i
 ## Contribuciones
 ¡Toda contribución es bienvenida! Si deseas mejorar el proyecto, abre un issue o haz un pull request.
 
-## 📜 Licencia
-Este proyecto está bajo la licencia MIT. ¡Úsalo libremente! 🎉
-
-
 # SnakeAI-PyTorch
