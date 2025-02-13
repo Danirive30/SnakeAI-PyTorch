@@ -32,7 +32,7 @@ El objetivo del proyecto es desarrollar una IA que juegue de manera óptima al j
 - **Aprendizaje por Refuerzo (Opcional)**: Entrena a la IA mediante retroalimentación basada en recompensas.
 
 ## Demostración
-Puedes ver una demostración del proyecto en acción aquí: *[Enlace a video o imágenes]*
+Puedes ver una demostración del proyecto en acción aquí: *[SnakeAI]*[https://drive.google.com/file/d/1owNrYiIwtANecezeZULuZVJ0OGz7HQ8B/view?usp=sharing]
 
 ## Contribuciones
 ¡Toda contribución es bienvenida! Si deseas mejorar el proyecto, abre un issue o haz un pull request.
