@@ -14,8 +14,7 @@ El objetivo del proyecto es desarrollar una IA que juegue de manera óptima al j
 ## Instalación y Uso
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/Danirive30/AI_Snake.git
-   cd AI_Snake
+   git clone https://github.com/Danirive30/SnakeAI-PyTorch.git
    ```
 2. Instala las dependencias necesarias:
    ```bash
@@ -23,7 +22,7 @@ El objetivo del proyecto es desarrollar una IA que juegue de manera óptima al j
    ```
 3. Ejecuta el juego con la IA:
    ```bash
-   python main.py
+   python agent.py
    ```
 
 ## Algoritmos Implementados
