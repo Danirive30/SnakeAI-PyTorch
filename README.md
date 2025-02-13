@@ -2,16 +2,16 @@
 
 Este proyecto implementa una inteligencia artificial (IA) para jugar al clásico juego de Snake. Utiliza algoritmos de búsqueda y aprendizaje automático para optimizar el rendimiento de la serpiente y maximizar su puntaje.
 
-## Tecnologías Utilizadas
+## Tecnologías utilizadas
 - Python 🐍
 - Pygame 🎮
 - Algoritmos de Búsqueda (A*, BFS, DFS)
 - Redes Neuronales Artificiales (Opcional)
 
-## Descripción del Proyecto
+## Descripción del proyecto
 El objetivo del proyecto es desarrollar una IA que juegue de manera óptima al juego de Snake. Para ello, se exploran diferentes estrategias de toma de decisiones, desde algoritmos de búsqueda hasta aprendizaje por refuerzo.
 
-## Instalación y Uso
+## Instalación y uso
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/Danirive30/SnakeAI-PyTorch.git
@@ -25,7 +25,7 @@ El objetivo del proyecto es desarrollar una IA que juegue de manera óptima al j
    python agent.py
    ```
 
-## Algoritmos Implementados
+## Algoritmos implementados
 - **Búsqueda en Anchura (BFS)**: Evalúa todas las posibles rutas antes de moverse.
 - **Búsqueda en Profundidad (DFS)**: Explora rutas largas, pero puede quedar atrapado fácilmente.
 - **A***: Optimiza el camino considerando heurísticas.
